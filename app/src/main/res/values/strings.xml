@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">APIDemo</string>
     <string name="header_image">header image</string>
+    <string name="news_api_key">d6f719adc7a447b792231cf1c985b463</string>
 </resources>

@@ -13,7 +13,6 @@ public class RetrofitService {
             .addConverterFactory(GsonConverterFactory.create())
             .build();
 
-
     public static <S> S createService(Class<S> serviceClass) {
         return retrofit.create(serviceClass);
     }
